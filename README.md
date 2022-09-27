@@ -17,7 +17,7 @@ Merhaba, [Patika](https://www.patika.dev)'nın [Veri Yapıları Ve Algoritmalar]
 |    | 16 | 21 |    | 11 |    |   | 8  |    | 12 | 22 |    |
 | 16 |    | 21 |    | 11 |    |   | 8  |    | 12 |    | 22 |
 
-Daha sonra tek başına duran elemanlarımızı sıralı olacak şekilde adım adım birleştiririz.
+Daha sonra tek başına duran elemanlar sıralı olacak şekilde adım adım birleştirilir.
 
 |    |    |    |    |    |    |    |    |    |    |    |    |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
